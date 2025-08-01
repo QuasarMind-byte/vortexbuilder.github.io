@@ -1,5 +1,8 @@
 # 🚀 技术探险日志
-
+![GitHub](https://img.shields.io/github/followers/QuasarMind-byte?label=Follow&style=social)
+![Stars](https://img.shields.io/github/stars/QuasarMind-byte/vortexbuilder.github.io.svg)
+![Forks](https://img.shields.io/github/forks/QuasarMind-byte/vortexbuilder.github.io.svg)
+![LastCommit](https://img.shields.io/github/last-commit/QuasarMind-byte/vortexbuilder.github.io)
 > 记录代码世界的发现与思考 | [订阅 RSS](rss.xml)
 
 ---
