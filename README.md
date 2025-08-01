@@ -35,7 +35,7 @@ public class Hello {
 }
 ```
 ```markdown
-  .
+.
 ├── src
 │   ├── index.js
 │   ├── utils
