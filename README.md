@@ -4,6 +4,7 @@
 ![Forks](https://img.shields.io/github/forks/QuasarMind-byte/vortexbuilder.github.io.svg)
 ![LastCommit](https://img.shields.io/github/last-commit/QuasarMind-byte/vortexbuilder.github.io)
 ---
+![Happy]( https://img.shields.io/badge/Hello%20the%20Quasar-ef3372)
 ![Java](https://img.shields.io/badge/Java-3.42%2B-violet)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3.54%2B-orange)
 ![Spring](https://img.shields.io/badge/Spring-4.42%2B-green)
