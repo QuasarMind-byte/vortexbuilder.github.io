@@ -20,6 +20,7 @@
 | 2024-08-15 | [React Server Component 实践陷阱](/posts/react-sc.md) | Web 开发 |
 | 2024-08-02 | [用 Go 实现分布式任务调度器](/posts/golang-scheduler.md) | 后端架构 |
 | 2024-07-20 | [CSS Container Queries 设计响应式布局](/posts/css-cq.md) | 前端技术 |
+| 2024-08-01 | [Java核心基础卷I]() | 后端开发 |
 
 ## 🛠️ 项目展示
 ```java
