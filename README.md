@@ -34,6 +34,20 @@ public class Hello {
   }
 }
 ```
+```markdown
+  .
+├── src
+│   ├── index.js
+│   ├── utils
+│   │   ├── helper.js
+│   │   └── validator.js
+│   └── assets
+├── public
+│   ├── index.html
+│   └── favicon.ico
+└── README.md
+```
+
 - **[PyAnalyzer](https://github.com/你/项目名)**：Python 静态代码分析工具  
 - **[NextJS-Boilerplate](https://github.com/你/项目名)**：现代 Web 应用脚手架  
 
