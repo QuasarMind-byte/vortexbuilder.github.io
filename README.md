@@ -3,6 +3,13 @@
 ![Stars](https://img.shields.io/github/stars/QuasarMind-byte/vortexbuilder.github.io.svg)
 ![Forks](https://img.shields.io/github/forks/QuasarMind-byte/vortexbuilder.github.io.svg)
 ![LastCommit](https://img.shields.io/github/last-commit/QuasarMind-byte/vortexbuilder.github.io)
+---
+![Java](https://img.shields.io/badge/Java-3.42%2B-violet)
+![JavaScript](https://img.shields.io/badge/JavaScript-3.54%2B-orange)
+![Spring](https://img.shields.io/badge/Spring-4.42%2B-green)
+![Vue](https://img.shields.io/badge/Vue-3.56%2B-blue)
+![Message]( https://img.shields.io/badge/just%20the%20message-8A2BE2)
+
 > 记录代码世界的发现与思考 | [订阅 RSS](rss.xml)
 
 ---
