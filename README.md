@@ -35,14 +35,14 @@ public class Hello {
 }
 ```
 ```markdown
-.
-├── src
+./
+├── src/
 │   ├── index.js
-│   ├── utils
+│   ├── utils/
 │   │   ├── helper.js
 │   │   └── validator.js
-│   └── assets
-├── public
+│   └── assets/
+├── public/
 │   ├── index.html
 │   └── favicon.ico
 └── README.md
