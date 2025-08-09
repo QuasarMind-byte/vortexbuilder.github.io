@@ -62,6 +62,6 @@ graph LR
     C --> G[Spring]
 ```
 - **技术栈**：JavaScript · TypeScript · Java · HTML/CSS  
-- **联系**： [Twitter](https://twitter.com/你) | [个人网站](https://你的域名) 
+- **联系**： [Twitter](https://twitter.com/你) | [个人网站](https://walnut-520.netlify.app/) 
 
 > **名言**：*“代码是写给人看的，只是顺便让机器能运行”*  
